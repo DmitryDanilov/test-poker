@@ -1,0 +1,20 @@
+spaces.push({
+        id: i,
+        isEmpty: true,
+        name: null,
+        cash: 0,
+        userId: null,
+        queue: null,
+        blind: null,
+        socketId: null,
+        rate: null
+    })
+
+cards[key] = [card1, card2]
+
+gameState = spaces.filter(space => !space.isEmpty).map((space) => {
+                    return { id: space.id, userId: decoded.userId }
+                })
+
+
+token = { userId: user.id, nickname: user.nickname }
